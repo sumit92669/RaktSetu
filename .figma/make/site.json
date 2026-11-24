@@ -1,0 +1,11 @@
+{
+  "title": "RaktSetu — Smart Blood Donor Matching",
+  "description": "Connects blood donors with people in need through donor matching, blood request tracking, and nearby hospital discovery, helping communities coordinate life-saving donations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
